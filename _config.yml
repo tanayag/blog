@@ -4,7 +4,7 @@ title: "Bruno Marinho"
 # Use absolute URL when not hosting on the root of server
 
 url: ""
-baseurl: "/blog" 
+baseurl: "/blog/_sass" 
 
 markdown: kramdown
 permalink: /writing/:title
